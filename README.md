@@ -7,4 +7,4 @@
  * 오늘은 무엇을 먹을까? → <https://wtet.kr>
 
 ### 2021 포트폴리오
-<http://jaemin95.dothome.co.kr>
+<https://2021-jmchoi.netlify.app>
