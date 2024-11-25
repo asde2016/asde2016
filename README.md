@@ -2,10 +2,3 @@
 
 ### 기술 블로그
 <https://jmbean.tistory.com>
-
-### 개인 프로젝트
- * 오늘은 무엇을 먹을까? → <https://wtet.kr>
- * For Develop → <https://for-develop.netlify.app>
-
-### 2021 포트폴리오
-<https://2021-jmchoi.netlify.app>
